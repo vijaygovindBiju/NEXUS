@@ -1,0 +1,18 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+.idea/
+.vscode/
+
+# Build artifacts (Rust / Node / Tauri)
+target/
+node_modules/
+dist/
+build/
+*.log
+
+# Duplicate packages
+*.zip
