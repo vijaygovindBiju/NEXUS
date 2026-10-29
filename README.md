@@ -85,7 +85,7 @@ nexius/
 ## 📖 Documentation Index
 
 For in-depth technical specifications, please consult the dedicated documentation:
-1. [ARCHITECTURE.md](file:///media/pirate/Shared/currently working/nexius/ARCHITECTURE.md) — System design, HAL abstractions, and runtime flow.
-2. [PROTOCOL.md](file:///media/pirate/Shared/currently working/nexius/PROTOCOL.md) — Tauri IPC commands, event payloads, and scoring algorithms.
-3. [TODO.md](file:///media/pirate/Shared/currently working/nexius/TODO.md) — Phased task backlog and implementation checklist.
-4. [SECURITY.md](file:///media/pirate/Shared/currently working/nexius/SECURITY.md) — Anti-cheat compliance, privilege model, and watchdog fail-safes.
+1. [ARCHITECTURE.md](ARCHITECTURE.md) — System design, HAL abstractions, and runtime flow.
+2. [PROTOCOL.md](PROTOCOL.md) — Tauri IPC commands, event payloads, and scoring algorithms.
+3. [TODO.md](TODO.md) — Phased task backlog and implementation checklist.
+4. [SECURITY.md](SECURITY.md) — Anti-cheat compliance, privilege model, and watchdog fail-safes.
